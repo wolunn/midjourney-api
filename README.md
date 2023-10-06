@@ -20,18 +20,17 @@ The AI Birthday Image Generator employs the following principles:
 Visit [ai-birthdaysister.com](https://ai-birthdaysister.com) to try the AI Birthday Image Generator.
 
 ## Example
-![b5e78ca0545b46d605312632b1d3558.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2Fb5e78ca0545b46d605312632b1d3558.png)
-![f383d9e29f013f810fb1b7b20703799.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2Ff383d9e29f013f810fb1b7b20703799.png)
-![89e1b94857d8daf710f83c17c09b8e6.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2F89e1b94857d8daf710f83c17c09b8e6.png)
-![92ca246a607e86212cf3b1e1590c0be.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2F92ca246a607e86212cf3b1e1590c0be.png)
+![b5e78ca0545b46d605312632b1d3558.png](images%2Fb5e78ca0545b46d605312632b1d3558.png)
+![f383d9e29f013f810fb1b7b20703799.png](images%2Ff383d9e29f013f810fb1b7b20703799.png)
+![9efce095bbc7f23dbc0b0278b03c53f.png](images%2F9efce095bbc7f23dbc0b0278b03c53f.png)
+![89e1b94857d8daf710f83c17c09b8e6.png](images%2F89e1b94857d8daf710f83c17c09b8e6.png)
+![92ca246a607e86212cf3b1e1590c0be.png](images%2F92ca246a607e86212cf3b1e1590c0be.png)
 
 Feel free to contribute and customize this tool to make it even more special for your birthday celebrations!
-
 
 ## Contact the Author
 
 For inquiries and to obtain the source code for free, contact the author at [1359417112@qq.com](mailto:1359417112@qq.com).
-
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
