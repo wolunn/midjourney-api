@@ -1,40 +1,37 @@
-# securityDemo跨平台登录
+# AI Birthday Image Generator
 
-#### 介绍
+Welcome to the AI Birthday Image Generator, a tool powered by MJ to create personalized and unique happy birthday images with the added feature of supporting background images.
 
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## Features
 
-#### 软件架构
-软件架构说明
+- **AI-Powered Image Generation:** Utilizes MJ for advanced and creative image generation.
+- **Background Support:** Easily incorporate background images to enhance the birthday wishes.
 
+## Project Principle
 
-#### 安装教程
+The AI Birthday Image Generator employs the following principles:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. **Direct Integration with MJ:** The tool directly accesses MJ's official website using Java, bypassing the need for an intermediary API.
 
-#### 使用说明
+2. **Image Enhancement:** Each generated image is automatically enlarged to ensure a visually appealing and high-quality result.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Experience it Live!
 
-#### 参与贡献
+Visit [ai-birthdaysister.com](https://ai-birthdaysister.com) to try the AI Birthday Image Generator.
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## Example
+![b5e78ca0545b46d605312632b1d3558.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2Fb5e78ca0545b46d605312632b1d3558.png)
+![f383d9e29f013f810fb1b7b20703799.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2Ff383d9e29f013f810fb1b7b20703799.png)
+![89e1b94857d8daf710f83c17c09b8e6.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2F89e1b94857d8daf710f83c17c09b8e6.png)
+![92ca246a607e86212cf3b1e1590c0be.png](..%2F..%2F..%2F..%2F..%2Fdownload%2Fwechat%2FWeChat%20Files%2Fwxid_7113251132314%2FFileStorage%2FTemp%2F92ca246a607e86212cf3b1e1590c0be.png)
+
+Feel free to contribute and customize this tool to make it even more special for your birthday celebrations!
 
 
-#### 特技
+## Contact the Author
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+For inquiries and to obtain the source code for free, contact the author at [1359417112@qq.com](mailto:1359417112@qq.com).
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
