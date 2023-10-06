@@ -1,4 +1,4 @@
-# AI Birthday Image Generator
+# Midjourney AI Image Generator
 
 Welcome to the AI Birthday Image Generator, a tool powered by MJ to create personalized and unique happy birthday images with the added feature of supporting background images.
 
