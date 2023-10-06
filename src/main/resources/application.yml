@@ -1,0 +1,34 @@
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 8080
+  servlet:
+    # 应用的访问路径
+    context-path: /
+
+# spring配置
+spring:
+  # redis 配置
+  redis:
+    # 地址
+    host: 155.94.233.214
+    port: 6379
+    database: 0
+    password: H3fAJzkCN8PzH8FY
+  datasource:
+    url: jdbc:mysql://155.94.233.214:3306/birthday?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
+    username: birthday
+    password: H3fAJzkCN8PzH8FY
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+# MyBatis配置
+mybatis:
+  # 搜索指定包别名
+  typeAliasesPackage: com.wwj.**.domain
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapperLocations: classpath*:mapper/**/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:mybatis/mybatis-config.xml
+
+openai:
+  url: http://155.94.233.214:8081
